@@ -3,17 +3,20 @@
         {
             "id":1,
             "name":"Product 1",
-            "price":100
+            "price":100,
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70&crop=false"
         },
         {
             "id":2,
             "name":"Product 2",
-            "price":200
-        },
+            "price":200,
+            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70"
+       },
         {
             "id":3,
             "name":"Product 3",
-            "price":300
+            "price":300,
+            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/q/2/edge-40-neo-payj0001in-motorola-original-imagtkf5ewhafvhh.jpeg?q=70"
         }
     ]
 }
